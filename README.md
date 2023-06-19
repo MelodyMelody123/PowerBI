@@ -7,11 +7,11 @@ https://imgur.com/nr4Bp7F
 
 * Introduction
 
- * Role
+  * Role
 
- * Business Problem Overview
+  * Business Problem Overview
 
- * Solution Approach
+  * Solution Approach
 
 * Data Overview
 
