@@ -1,8 +1,10 @@
-# PowerBI
+# PowerBI Capstone Project
 
-![Screenshot of Main Report](https://imgur.com/HIj2wQa)
+### Data Science Salaries 2023 (Predictive Data Analytics)
 
-[Screenshot of Country report](https://imgur.com/nr4Bp7F)
+![Screenshot of Main Report]([Imgur](https://imgur.com/a0lg6K1)
+
+[Screenshot of Country report][Imgur](https://imgur.com/qPAgxy5)
 
 **Contents/Agenda**
 
