@@ -30,13 +30,13 @@ Recommendations
 Data Analyst for a higher education learning institute
 
 Reporting to Head of Sales and Marketing
---------------------------------------------------------------------------------------------------------------
+
 **Business Challenge Overview**
 
 With globalisation and technological advancement, market competition for higher education is intense. The Sales and Marketing department needs to gain insights on salaries of different Data Science fields in the Data Science domain, as shown in the dataset, to better strategise their marketing plan.
 
 Data Science Salaries 2023 💸 | Kaggle
-----------------------------------------------------------------------------------------------
+https://www.kaggle.com/datasets/arnabchaki/data-science-salaries-2023
 
 **Solution Approach**
 
