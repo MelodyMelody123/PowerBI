@@ -16,7 +16,7 @@ Data Analytics Results
 Executive Summary 
 Actionable Insights
 Recommendations
-![image](https://github.com/MelodyMelody123/PowerBI/assets/123168349/88b1804f-5669-4306-9220-a6d462d5ee5c)
+
 Role
 Data Analyst for a higher education learning institute
 Reporting to Head of Sales and Marketing
@@ -26,10 +26,10 @@ With globalisation and technological advancement, market competition for higher 
 
 Data Science Salaries 2023 💸 | Kaggle
 ----------------------------------------------------------------------------------------------
+
 Solution Approach
 Extract, Transform, Load 
 Share insights and recommendations
-![image](https://github.com/MelodyMelody123/PowerBI/assets/123168349/ca80ab04-8b89-42f5-9983-6fdd24ad87ff)
 
 Data Overview
  work_year                   : The year the salary was paid.
@@ -47,8 +47,6 @@ Data Overview
 10. company_location     : The country of the employer's main office or contracting branch
 11. company_size             : The median number of people that worked for the company during the year
                                                (S: Small, M: Medium, L: Large)
-![image](https://github.com/MelodyMelody123/PowerBI/assets/123168349/289c9aea-1af6-40e5-9f7c-766ede0a121b)
-
 
 Data Reprocessing
 There is no blank value.
@@ -60,10 +58,11 @@ Removal of
 
 Addition of
 Serial_number for unique identification
-![image](https://github.com/MelodyMelody123/PowerBI/assets/123168349/b60c6abe-f76a-4fea-ae11-61130b749959)
 
 Executive Summary 
-Actionable Insights
+
+Actionable Insights 
+
 Salary => Minimum: US$5132   Average: US$137570   Max: US$450000
 For Experience_level, Ex has the highest average salary, which may be the reason for them no longer in service, eg retrench due to being high cost. Followed by Senior, Middle then Entry, which is very logical. 
     Ex: US$194930.93   Senior: US$153051.07   Middle: US$104525.94   Entry: US$78546.28
@@ -74,7 +73,6 @@ For Employment_type, as expected, Full Time has the highest pay, followed by Con
      FT: 138314.20 (40.31%)   CT: 113446.90 (33.07%)   FL: 51807.80 (15.1%)   PT: 39533.71 (11.52%)
 US has the highest number of people working in Data Science by this dataset, followed by Spain, France, India. Out of 3755, 3040 company_location are US. It may be due to US being one of the largest country and having a very big population as compared to many other countries. 
 Israel has the highest average salary for working in Data Science by this dataset, but there are only two records of salaries. The high salary may be due to the country being war prone. 
-![image](https://github.com/MelodyMelody123/PowerBI/assets/123168349/0fbb0ed5-761c-4deb-96e3-8c8ef048ae8b)
 
 Recommendations
 
@@ -83,5 +81,3 @@ Maximum and Average salaries (especially for average salaries for Medium-sized c
 Further data can be collected over next few years eg 3 – 5 years, to facilitate deeper understanding of salaries, post COVID pandemic, which World Health Organisation has just announced on 4 May 2023 that COVID-19 is no longer global health emergency. This will help better analysis for future long term planning. 
 Further analysis can be conducted by studying the salaries of Data Science by remote work, non-remote work and hybrid, for even more detailed analysis. 
 Further analysis can be conducted to gain insights into whether Employee_residence different from Company_location can have effect on salaries eg higher salary to compensate for the moving from a country to another. 
-![image](https://github.com/MelodyMelody123/PowerBI/assets/123168349/6d075429-4b1a-4fff-a036-638641a89cb1)
-
