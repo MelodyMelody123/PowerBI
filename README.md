@@ -4,7 +4,7 @@
 
 ![Screenshot of Main Report](https://i.imgur.com/a0lg6K1.png)
 
-[Screenshot of Country report](https://i.imgur.com/qPAgxy5.png)
+![Screenshot of Country report](https://i.imgur.com/qPAgxy5.png)
 
 **Contents/Agenda**
 
