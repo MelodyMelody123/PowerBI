@@ -7,11 +7,11 @@ https://imgur.com/nr4Bp7F
 
 * Introduction
 
-* Role
+ * Role
 
-* Business Problem Overview
+ * Business Problem Overview
 
-* Solution Approach
+ * Solution Approach
 
 * Data Overview
 
@@ -39,9 +39,9 @@ https://www.kaggle.com/datasets/arnabchaki/data-science-salaries-2023
 
 **Solution Approach**
 
-*Extract, Transform, Load 
+* Extract, Transform, Load 
 
-*Share insights and recommendations
+* Share insights and recommendations
 
 **Data Overview**
 
@@ -77,15 +77,15 @@ There is no blank value.
 
 Removal of 
 
-*“salary”, as it bears no significant in analysis, since total gross salary in various currency would not be good for comparison against each other. “salaryinusd” would be more comparable. 
+* “salary”, as it bears no significant in analysis, since total gross salary in various currency would not be good for comparison against each other. “salaryinusd” would be more comparable. 
 
-*“salary_currency”, since “salaryinusd” is used directly for comparison, and “salary” is disregarded. 
+* “salary_currency”, since “salaryinusd” is used directly for comparison, and “salary” is disregarded. 
 
-*“employee_residence”, since most of the records of “employee_residence” is the same as “company_location” and for the efficiency of analysing. 
+* “employee_residence”, since most of the records of “employee_residence” is the same as “company_location” and for the efficiency of analysing. 
 
 Addition of
 
-*Serial_number for unique identification
+* Serial_number for unique identification
 
 **Executive Summary**
 
