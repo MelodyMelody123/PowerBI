@@ -5,23 +5,23 @@ https://imgur.com/nr4Bp7F
 
 **Contents/Agenda**
 
-Introduction
+* Introduction
 
-Role
+* Role
 
-Business Problem Overview
+* Business Problem Overview
 
-Solution Approach
+* Solution Approach
 
-Data Overview
+* Data Overview
 
-Data Analytics Results
+* Data Analytics Results
 
-Executive Summary 
+* Executive Summary 
 
-Actionable Insights
+  * Actionable Insights
 
-Recommendations
+  * Recommendations
 
 **Role**
 
