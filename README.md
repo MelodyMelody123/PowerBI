@@ -1,8 +1,8 @@
 # PowerBI
 
-https://imgur.com/HIj2wQa
+![Screenshot of Main Report](https://imgur.com/HIj2wQa)
 
-https://imgur.com/nr4Bp7F
+[Screenshot of Country report](https://imgur.com/nr4Bp7F)
 
 **Contents/Agenda**
 
