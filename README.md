@@ -2,9 +2,9 @@
 
 ### Data Science Salaries 2023 (Predictive Data Analytics)
 
-![Screenshot of Main Report]([Imgur](https://imgur.com/a0lg6K1)
+![Screenshot of Main Report][([Imgur](https://i.imgur.com/a0lg6K1.png)
 
-[Screenshot of Country report][Imgur](https://imgur.com/qPAgxy5)
+[Screenshot of Country report](https://i.imgur.com/qPAgxy5.png)
 
 **Contents/Agenda**
 
